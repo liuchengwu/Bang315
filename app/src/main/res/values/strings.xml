@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">2048Link</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">帮助</string>
+    <string name="action_new">新建</string>
+</resources>
